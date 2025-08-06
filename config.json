@@ -177,6 +177,11 @@
       "type": "movie",
       "query": "福利"
     },
+    {
+      "name": "伦理",
+      "type": "movie",
+      "query": "伦理"
+    },
 
 {
       "name": "热门",
